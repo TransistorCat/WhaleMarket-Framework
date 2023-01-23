@@ -1,8 +1,10 @@
 #include "tools/hint.h"
 
+using namespace std;
+
 int main() {
-    welcomeMessage();
+    // welcomeMessage();
     // invalidMessage();
-    // testColor();
+    testColor();
     return 0;
 }
