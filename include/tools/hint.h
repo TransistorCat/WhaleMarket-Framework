@@ -13,4 +13,6 @@ void welcomeMessage();
  */
 void invalidMessage();
 
+void testColor();
+
 #endif

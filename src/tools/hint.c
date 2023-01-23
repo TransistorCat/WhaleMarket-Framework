@@ -32,3 +32,6 @@ void invalidMessage() {
 FRONT_RED, BOLD, RESET);
 }
 
+void testColor(){
+    printf("%s%s%s\n",FRONT_GREEN,INVALID,RESET);
+}

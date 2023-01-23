@@ -2,6 +2,7 @@
 
 int main() {
     welcomeMessage();
-    invalidMessage();
+    // invalidMessage();
+    // testColor();
     return 0;
 }
