@@ -3,8 +3,9 @@
 using namespace std;
 
 int main() {
-    // welcomeMessage();
-    // invalidMessage();
+    welcomeMessage();
+    invalidMessage();
     testColor();
+    int a=5;
     return 0;
 }
